@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-shadow: rgba(0, 136, 255, 0.466);
+}
+
+p{
+    margin: 15px;
+}
+
+body{
+    background-color: ivory;
+    font-family: sans-serif;
+}
